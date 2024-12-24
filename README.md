@@ -1,4 +1,4 @@
-# Classify Song Genres from Audio Data
+# 🎵 Classify Song Genres from Audio Data
 
 This project focuses on classifying songs into two genres, **Hip-Hop** and **Rock**, using machine learning techniques and audio feature data. The aim is to develop a model that can accurately classify songs based on features extracted from raw audio, without listening to the tracks themselves.
 
